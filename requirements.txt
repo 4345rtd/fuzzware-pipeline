@@ -4,3 +4,5 @@ PyYAML>=5.3
 watchdog
 intelhex
 pyelftools
+lxml
+six
